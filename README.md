@@ -4,7 +4,7 @@
 0
 1
 **** Calculus/Vectors ****
-Modulus of vector [2, 4, ] is equal to: 7.08872
+Modulus of vector [2, 4, 5.5] is equal to: 7.08872
 
 **** Drawing Shapes Via Loops *****
 << SQUARE >>
