@@ -49,8 +49,9 @@ double vector_modulus(double arr[], int size) {
     std::cout << "Modulus of vector [";
     
     for(int i=0; i<size; i++){
+        std::cout << arr[i];
         if(i != size-1) 
-            std::cout << arr[i] << ", ";
+            std::cout << ", ";
         result = result + (arr[i] * arr[i]);
     }
     
